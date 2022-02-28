@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An arrow against all tyrants and tyrany, shot from the prison of New-gate into the prerogative bowels of the arbitrary House of Lords, and all other usurpers and tyrants whatsoever. wherein the originall rise, extent, and end of magisteriall power, the naturall and nationall rights, freedomes and properties of mankind are discovered, and undeniably maintained; ... the late Presbyterian ordinance (invented and contrived by the diviners, and by the motion of Mr. Bacon and Mr. Taet read in the House of Commons) examined, refuted, and exploaded, as most inhumaine, tyranicall and barbarous. / By Richard Overton prerogative archer to the arbitrary House of Lords, their prisoner in New-gate, ... sent by way of a letter from him, to Mr Henry Martin, a Member of the House of Commons. Imprimatur rectat justitia.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90228</idno>
+            <idno type="STC">Wing O622</idno>
+            <idno type="STC">Thomason E356_14</idno>
+            <idno type="STC">ESTC R201139</idno>
+            <idno type="EEBO-CITATION">99861690</idno>
+            <idno type="PROQUEST">99861690</idno>
+            <idno type="VID">159917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159917)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E356[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An arrow against all tyrants and tyrany, shot from the prison of New-gate into the prerogative bowels of the arbitrary House of Lords, and all other usurpers and tyrants whatsoever. wherein the originall rise, extent, and end of magisteriall power, the naturall and nationall rights, freedomes and properties of mankind are discovered, and undeniably maintained; ... the late Presbyterian ordinance (invented and contrived by the diviners, and by the motion of Mr. Bacon and Mr. Taet read in the House of Commons) examined, refuted, and exploaded, as most inhumaine, tyranicall and barbarous. / By Richard Overton prerogative archer to the arbitrary House of Lords, their prisoner in New-gate, ... sent by way of a letter from him, to Mr Henry Martin, a Member of the House of Commons. Imprimatur rectat justitia.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the backside of the Cyclopian Mountains, by Martin Claw-Clergy, printer to the reverend Assembly of Divines, and are to be sould at the signe of the Subjects Liberty, right opposite to persecuting Court.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The imprint is fictitious; actual place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Lords --  Early works to 1800.</term>
+               <term>Civil rights --  England --  Early works to 1800.</term>
+               <term>Freedom of the press --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159917:1" rendition="simple:additions"/>
+            <p>AN ARROW AGAINST ALL TYRANTS And Tyrany, ſhot from the Priſon of New-gate into the Prerogative Bowels of the Arbitrary Houſe of Lords<g ref="char:punc">▪</g> and all other Uſurpers and Tyrants <hi>Whatſoever.</hi>
+            </p>
+            <p>Wherein the originall riſe, extent, and end of Magi<g ref="char:EOLhyphen"/>ſteriall power, the naturall and Nationall rights, freedomes and pro<g ref="char:EOLhyphen"/>perties of Mankind are diſcovered, and undeniably maintained; the late oppreſſions and incroachments of the Lords over the Commons legally (by the fundamentall Lawes and Statutes of this Realme, as alſo by a memorable Extract out of the Records of the <hi>Tower</hi> of <hi>London)</hi> condemned; The late Presbyterian Ordinance (invented and contrived by the Divaners, and by the motion of Mr. <hi>Bacon</hi> and Mr. <hi>Taet</hi> read in the Houſe of Commons) examined, refuted, and exploaded, as moſt inhumaine, tyranicall and Barbarous.</p>
+            <p>By <hi>RICHARD OVERTON</hi> Prerogative Archer to the Arbitrary Houſe of Lords, Their Priſoner in <hi>New</hi> gate, for the juſt and legall properties, rights and <hi>freedoms of the Commons of</hi> England: <hi>Sent by way of a Letter from him, to Mr.</hi> Henry Martin, <hi>a Member of the Houſe of Commons.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>IMPRIMATUR <hi>Rectat Juſtitia.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at the backſide of the Cyclopian Mountains, by <hi>Martin Claw-Clergy,</hi> Printer to the reverend Aſſembly of Divines, and are to be ſould at the ſigne of the Subjects Liberty, right oppo<g ref="char:EOLhyphen"/>ſite to perſecuting Court. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:159917:2"/>
+            <pb n="3" facs="tcp:159917:2"/>
+            <head>AN ARROVV AGAINST ALL TYRANTS And Tyrany, ſhot from the priſon of <hi>New-gate</hi> into the Prerogative bowels of the Atbitrary <hi>Houſe of Lords, and all other Uſurpers and Tyrants whatſoever.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O every Individuall in nature, is given an individuall pro<g ref="char:EOLhyphen"/>perty by nature, not to be invaded or uſurped by any: for every one as he is himſelfe, ſo he hath a ſelfe pro<g ref="char:EOLhyphen"/>priety, elſe could he not be himſelfe, and on this no ſe<g ref="char:EOLhyphen"/>cond may preſume to deprive any of, without manifeſt violation and affront to the very principles of nature, and of the Rules of equity and juſtice between man and man; mine and thine cannot be, except this be: No man hath power over my rights and liberties, and I over no mans; I may be but an Individuall, enjoy <hi>my ſelfe</hi> and my ſelfe propriety, and may write my ſelfe no more then my ſelfe, or preſume any further; if I doe, I am an encroacher &amp; an invader upon an other mans Right, to which I have no <hi>Right.</hi> For by naturall birth, all men are equally and alike borne to like propriety, liberty and free<g ref="char:EOLhyphen"/>dome, and as we are delivered of God by the hand of nature into this world, every one with a naturall, innate freedome and propriety (as it were writ in the table of every mans heart, never to be obliterated) even ſo are we to live, every one equally and alike to enjoy his Birth<g ref="char:EOLhyphen"/>right and priviledge; even all whereof God by nature hath made him free.</p>
+            <p>And this by nature every one deſires aimes at, and requires, for no man naturally would be befooled of his liberty by his neighbours craft, or inſlaved by his neighbours might, for it is natures inſtinct to preſerve it ſelfe, from all things hurtfull and obnoctious, and this in
+<pb n="4" facs="tcp:159917:3"/>
+nature is granted of all to be moſt reaſonable, equall and juſt, not to be rooted out of the kind, even of equall duration with the creature: And from this fountain or root, all juſt humain powers take their original; not immediatly from God (as Kings uſually plead their prerogative) but mediatly by the hand of nature, as from the repreſented to the repreſentors; for originally, God hath implanted them in the crea<g ref="char:EOLhyphen"/>ture, and from the creature thoſe powers immediatly proceed; and no further: and no more may be communicated then ſtands for the better being, weale, or ſafety thereof: and this is mans prerogative and no further, ſo much and no more may be given or received thereof: even ſo much as is conducent to a better being, more ſafety and freedome, and no more; he that gives more, ſins againſt his owne fleſh; and he that takes more, is a Theife and Robber to his kind: E<g ref="char:EOLhyphen"/>very man by nature being a King, Prieſt and Prophet in his owne na<g ref="char:EOLhyphen"/>turall circuite and compaſſe, whereof no ſecond may partake, but by deputation, commiſſion, and free conſent from him, whoſe naturall right and freedome it is.</p>
+            <p>And thus Sir, and no otherwiſe are you inſtated into your ſove<g ref="char:EOLhyphen"/>raign capacity, for the free people of this Nation, for their better be<g ref="char:EOLhyphen"/>ing, diſcipline, government, propriety and ſafety, have each of them communicated ſo much unto you (their <hi>Choſen Ones)</hi> of their natu<g ref="char:EOLhyphen"/>rall rights and powers, that you might thereby become their abſolute Commiſſioners, and lawfull Deputies, but no more; and that by con<g ref="char:EOLhyphen"/>traction of thoſe their ſeverall Individuall Communications confer'd upon, and united in you, you alone might become their own naturall proper, ſoveraign power, therewith ſingly and only impowred for their ſeverall weales, ſafeties and freedomes, and no otherwiſe: for as by nature, no man may abuſe, beat, torment, or afflict himſelfe; ſo by nature, no man may give that power to an other, ſeeing he may not doe it himſelfe, for no more can be communicated from the generall then is included in the particulars, whereof the generall is com<g ref="char:EOLhyphen"/>pounded.</p>
+            <p>So that ſuch ſo deputed, are to the <hi>Generall</hi> no otherwiſe, then as a Schoole-maſter to a particular, to this or that mans familie, for as ſuch an ones Maſterſhip, ordering and regulating power is but by deputati<g ref="char:EOLhyphen"/>on, and that <hi>ad bene placitum,</hi> and may be removed at the parents or Head maſters pleaſure, upon neglect or abuſe thereof, and be con<g ref="char:EOLhyphen"/>ſer'd upon another (no parents ever giving ſuch an abſolute unlimited
+<pb n="5" facs="tcp:159917:3"/>
+power to ſuch over their children, as to doe to them as they liſt, and not to be retracted, controuled, or reſtrained in their exorbitances) Even ſo and no otherwiſe is it, with you our Deputies in reſpect of the Generall, it is in vaine for you to thinke you have power over us, to ſave us or deſtroy us at your pleaſure, to doe with us as you liſt, be it for our weale, or be it for our wo, and not to be enjoyned in mercy to the one, or queſtioned in juſtice for the other, for the edge of your own arguments againſt the King in this kind, may be turned upon your ſelves, for if for the ſafety of the people, he might in equity be op<g ref="char:EOLhyphen"/>poſed by you in his tyranies oppreſſions &amp; cruelties, even ſo may you by the ſame rule of right reaſon, be oppoſed by the people in generall, in the like caſes of diſtruction and ruine by you upon them, for the ſafety of the people is the Soveraigne Law, to which all muſt be<g ref="char:EOLhyphen"/>come ſubject, and for the which all powers humaine are ordained by them, for tyrany, oppreſſion and cruelty whatſoever, and in whomſoever, is in it ſelfe unnaturall, illegall, yea abſolutly anti ma<g ref="char:EOLhyphen"/>giſteriall, for it is even deſtructive to all humaine civill ſociety, and therefore reſiſtable.</p>
+            <p>Now Sir the Commons of this Nation, having impowred their Body Repreſentative, wherof you are one, with their own abſolute Soveraignty, thereby Authoritively and legally to remove from a<g ref="char:EOLhyphen"/>mongſt them all oppreſſions and tyranies, oppreſſors and tyrans, how great ſoever in name, place or dignity, and to protect, ſafegard, and defend them from all ſuch unnaturall monſters, vipers and peſts, bred of corruption or which are intruſted amongſt them &amp; as much as in them lies, to prevent all ſuch for the future. And to that end, you have been aſſiſted with our lives and fortunes, moſt liberally and free<g ref="char:EOLhyphen"/>ly, with moſt victorious and happy ſucceſſe, whereby your Armes are ſtrengthned with our might, that now you may make us all hap<g ref="char:EOLhyphen"/>py within the confines of this Nation, if you pleaſe; and therfore Sir, in reaſon, equity and juſtice, we deſerve no leſle at your hands, and (Sir) let it not ſeem ſtrange unto you, that we are thus bold with you for our own.</p>
+            <p>For by nature we are the ſons of <hi>Adam,</hi> and from him have legiti<g ref="char:EOLhyphen"/>matly derived a naturall propriety, right and freedome, which only we require, and how in equity you can deny us, we cannot ſee; It is but the juſt rights and prerogative of mankind (whereunto the people of England, are heires apparent as well as other Nations) which we
+<pb n="6" facs="tcp:159917:4"/>
+deſire, and ſure you will not deny it us, that we may be men, and live like men; if you doe, it will be as little ſafe for your ſelfes and poſterity, as for us and our poſterity, for Sir, look what bondage, thraldome, or tyrany ſoever you ſettle upon us, you certainly, or your poſte<g ref="char:EOLhyphen"/>rity will taſt of the dregs: if by your preſent policy and (abuſed) might, you chance to award it from your ſelves in particular, yet your poſterity doe what you can, will be liable to the hazard thereof.</p>
+            <p>And therefore Sir, we deſire your help for your own ſakes, as well as for our ſelves, chiefly for the removall of two moſt inſufferable e<g ref="char:EOLhyphen"/>vils, daylie encroaching and encreaſing upon us, portending and threatning inevitable deſtiuction, and coufuſion of your ſelves, of us, and of all our poſterities, namely, <hi>the encroashments and uſurpations of the Houſe of LORDS, over the Commons liberties, and freedomes, to<g ref="char:EOLhyphen"/>gether with the barberous, inhumaine, blood-thirſty deſires and endevours of of the Presbyterian Clergy.</hi>
+            </p>
+            <p>For the firſt, namely, <hi>the exhorbitances of the LORDS,</hi> they are to ſuch an hight aſpired that contrary to all preſidents the free Co<g ref="char:cmbAbbrStroke">̄</g>mo<g ref="char:EOLhyphen"/>ners of <hi>England</hi> are impriſoned, fined &amp; condemned by them <hi>(their in<g ref="char:EOLhyphen"/>computent illegall, unequall, improper judges)</hi> againſt the expreſſe letter of <hi>Magna char.</hi> chap. 29. (ſo often urged and uſed) that no free man of <hi>England ſhall be paſſed upon, tryed, or condemned, but by the lawfull judge<g ref="char:EOLhyphen"/>ment of his equals, or by the Law of the Land.</hi> W<hi rend="sup">ch</hi> as ſaith Sir <hi>Edw. Cooke</hi> in his expoſition of <hi>Mag. chap.</hi> 28. laſt li. is <hi>Per pares,</hi> by his peeres, that is, by his equals. And page 46. branch 1. 2. 5. in theſe words;</p>
+            <p n="1">1. <hi>That no man be taken or impriſoned, but</hi> per legem terrae, <hi>that is, by the common Law, Statute Law or cuſtome of</hi> England: <hi>For theſe Words,</hi> per legem terrae <hi>being towards the end of this chapter, doe referre to all the pretended matters in this chapter, and this hath the firſt place, becauſe the li<g ref="char:EOLhyphen"/>berty of a mans perſon is more precious to him then all thereſt that follow, and therefore it is great reaſon, that he ſhould by law be relieved therein, if he be wronged, as hereafter ſhall be ſhewed.</hi>
+            </p>
+            <p n="2">2. <hi>No man ſhall be diſſeiſed, that is, put out of ſeiſon, or diſpoſſeſſed of his free-hold, that is, lands or livelyhood, or of his liberties or free cuſtomes, that is, of ſuch franchiſes and freedomes, and free cuſtomes, as belong to him by his free birthright; unleſſe it be by the lawfull judgement, that is verdict of his equals (that is of men of his own condition) or by the Law of the Land (that is to ſpeak it once for all) by the due courſe and proceſſes of Law.</hi>
+            </p>
+            <p n="3">3. <hi>No man ſhall be in any ſort deſtroyed</hi> (deſtruere<g ref="char:punc">▪</g> 1. quod prius
+<pb n="7" facs="tcp:159917:4"/>
+ſtructum &amp; factum ſuit, penitus evertere &amp; dimere) <hi>unleſſe it be by the verdict of his equals, or according to the Law of the land.</hi>
+            </p>
+            <p>And chapter 29. of <hi>Magna Charta,</hi> it is ſaid, <hi>ſecundum legem &amp; con<g ref="char:EOLhyphen"/>ſuetudinem Angliae,</hi> after the Law and cuſtome of <hi>England, non Regis Angliae,</hi> not of the King of <hi>England,</hi> leſt it might be thought to bind the King only, <hi>nec populi Angliae,</hi> nor of the People of <hi>England;</hi> but that the Law might tend to all, it is ſaid, <hi>per legem terrae,</hi> by the Law of the Land. <hi>Magna chapta,</hi> 29.</p>
+            <p>Againſt this ancient and fundamentall Law, and in the very face thereof (ſaith Sir <hi>Edward Cooke</hi>) he found an Act of the Parliament made in the 11. of <hi>Hen.</hi> the 7. chap. 3. that as well juſtices of Peace without any finding or preſentment by the verdict of 12. men, up<g ref="char:EOLhyphen"/>on the bare information for the King before them, ſhould have full power and authority, by their diſcretions to hear and determine all offences and contempts committed or done by any perſon or perſons againſt the forme, ordinance, and effect of any Statute made and not repealed: by colour of which Act, ſhaking this fundamentall Law, (it is not credible) ſaith he what horrible oppreſſions and exactions (to the undoing of infinite numbers of people) were committed by Sir <hi>Richard Empſon</hi> Knight, and <hi>Edmund Dudly,</hi> being Juſtices of the Peace through <hi>England,</hi> and upon this unjuſt and injurious act, (as commonly in the like caſes it falleth out) a new Office was errected, and they made maſters of the Kings Forfitures.</p>
+            <p>But at the Parliament holden in the 1. of <hi>Hen.</hi> 8. chap. 6. this Act of <hi>Hen.</hi> 7. is receited, made void and Repealed, and the reaſon there<g ref="char:EOLhyphen"/>of is yeelded, for that by force of the ſaid Act, it was manifeſtly known that many ſiniſter, crafty, and forged informations had been purſued againſt divers of the Kings Subjects, to their great damage and unſpeakable vexation: (a thing moſt frequent and uſuall at this day and in theſe times) the ill ſucceſſe whereof, together with the moſt fearfull end of theſe great Oppreſſors ſhould deterre others from committing the like, and ſhould admoniſh Parliaments in the future, that in ſtead of this ordinary and precious try all <hi>Per legem Terrae</hi> they bring not in an abſolute and parciall tryall by diſcretion, <hi>Cooke 2. in<g ref="char:EOLhyphen"/>ſtitute</hi> folio. 51.</p>
+            <p>And to this end the Judgement upon <hi>Symond de Berefrrd,</hi> a Commo<g ref="char:EOLhyphen"/>ner, in the 4. yeare of <hi>Edw.</hi> 3. is an excellent precident for theſe times (as is to be ſeen upon record in the <hi>Tower,</hi> in the ſecond Roll of Par<g ref="char:EOLhyphen"/>liament
+<pb n="8" facs="tcp:159917:5"/>
+held the ſame yeare of the ſaid King, and delivered into the <hi>Chancery</hi> by <hi>Henry de Edenſton</hi> Clerk of the Parliament) for that the ſaid <hi>Simon de Bereford</hi> having counſelled, aided and aſſiſted <hi>Roger de M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>timer</hi> to the murther of the Father of the ſaid King; the King commanded the Earles and Barons in the ſaid Parliament Aſſem<g ref="char:EOLhyphen"/>bled, to give right and lawfull judgement unto the ſaid <hi>Symon de Bereford;</hi> But the Earles, Barons and Peers came before the Lord the King in the ſame Parliament, and ſaid with one voice, that the aforeſaid <hi>Simon,</hi> was not their Peer or equall, wherefore, they were not bound to judge him as a Peer of the Land: Yet notwithſtanding all this, the Earles, Barons and Peers (being over ſwaid by the King) did award and adjudge (as judges of Parliament, by the aſſent of the King in the ſaid Parliament) that the ſaid <hi>Simon</hi> as a traitor &amp; enemy of the Realm, ſhould behanged &amp; drawn, and execution accordingly was done: But as by the ſaid <hi>Roll</hi> appeareth, it was by full Parliament condemned and adjudged as illegall, and as a precident not to be drawn into example; the words of the ſaid <hi>Roll</hi> are theſe, <hi>viz</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <p>
+                           <hi>And it is aſſented and agreed by our Lord the King, and all the Grandees in full Parliament, that albeit the ſaid Peers as judges in full Parliament took upon them in preſence of our Lord the King, to make and give the ſaid Judgement by the aſſent of the King, upon ſome of them that were not their Peers,</hi> (to wit Commoners) <hi>&amp; by reaſon of the murther of the Leige Lord, and deſtruction of him, which was ſo neer of the blood royall and the Kings Fa<g ref="char:EOLhyphen"/>ther, that therefore the ſaid Peers which now are, or the Peers which ſhall be for the time to come, be not bound or charged to give judgement upon others then upon their Peers, nor ſhall doe it; but of that for ever be diſcharged, and acquit, and that the aforeſaid Judgement now given be not drawn into ex<g ref="char:EOLhyphen"/>ample or conſequent for the time to come, by which the ſaid Peers may be charged hereafter to Judge others then their Peers, being againſt the Law of the Land, if any ſuch caſe happen, which God defend.</hi>
+                        </p>
+                        <closer>
+                           <signed>Agreeth with the Record. William Collet.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But notwithſtanding all this, our Lords in Parliament take upon them as Judges in Parliament to paſſe judgement and ſentence (even of themſelves) upon the Commoners which are not their Peeres, and
+<pb n="9" facs="tcp:159917:5"/>
+that to fining, impriſonment, &amp;c. And this doth not only content them, but they even ſend <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth their armed men, and beſet, invade, aſſault their houſes and perſons in a warlike manner, and take what plunder they pleaſe, before ſo much as any of their pretended illegall warrants be ſhewed, as was lately upon the eleventh of Auguſt 1646. perpetrated againſt mee and mine, which was more then the King himſelfe by his legall Prerogative ever could doe, for neither by ver<g ref="char:EOLhyphen"/>ball commands or commiſſions under the Great Seale of <hi>England,</hi> he could ever give any lawfull authority to any Generall, Captaine, or perſon whatſoever without legall tri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll and conviction, forcei<g ref="char:EOLhyphen"/>bly to aſſault, rob, ſpoile or impriſon any of the free Commo<g ref="char:EOLhyphen"/>ners of <hi>England:</hi> and in caſe any free Commoner by ſuch his illegall Commiſſions, Orders or warrants before they be lawfully convicted, ſhould be aſſaulted, ſpoiled, plundered, impriſoned, &amp;c. in ſuch caſes his agents and miniſters ought to be proceeded againſt, reſiſted, ap<g ref="char:EOLhyphen"/>prehended, indicted and condemned (notwithſtanding ſuch com<g ref="char:EOLhyphen"/>miſſions) as Treſpaſſers, Theeves, Burglarers, Felons, Murderers both by Statute and common Law, as is enacted and reſolvd by <hi>Mag<g ref="char:EOLhyphen"/>na Charta, cap. 29. 15. Eliz 3. ſtat. 1. cap. 1, 2 3, 42 Eliz 5. cap. 1 3. 28. Eliz. 1. Artic. ſup. chartas, cap. 2. 4. Eliz. 3. cap 4 5. Eliz. 3 cap. 2. 24 Eliz. 3. cap. 1. 2. Rich. 2. cap. 7. 5. Rich. 2. cap. 5. 1. Hen. 5. cap. 6. 11. Hen. 2. cap. 1. to 6. 24. Hen. 8. cap. 5. 21. Jacob. cap 3.</hi>
+            </p>
+            <p>And if the King himſelfe have not this Arbitrary power, much leſſe may his Peeres or Companions, the Lords over the free Com<g ref="char:EOLhyphen"/>mons of <hi>England.</hi> And therefore notwithſtanding ſuch illegall cen<g ref="char:EOLhyphen"/>ſures and warrants either of King or of Lords (no legall conviction being made) the perſons invaded and aſſaulted by ſuch open force of Armes may lawfully arme themſelves, fortifie their Houſes (which are their Caſtles in the judgement of the Law) againſt them, yea diſ<g ref="char:EOLhyphen"/>arme, beat, wound, repreſſe and kill them in their juſt neceſſary de<g ref="char:EOLhyphen"/>fence of their own perſons, houſes, goods wives and families, and not be guilty of the leaſt offence, as is expreſly reſolved by the Statute of 21. <hi>Edw. de malefactoribus in parcis,</hi> by 24. <hi>Hen. 8. cap. 5. 11. Hen. 6. 16. 14. Hen. 6. 24. 35. Hen. 6. 12. E. 4. 6.</hi>
+            </p>
+            <p>And therefore (Sir) as even by nature and by the Law of the Land I was bound, I denyed ſubjection to theſe Lords and their arbit<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ry creatures; thus by open force invading and aſſaulting my houſe per<g ref="char:EOLhyphen"/>ſon, &amp;c. no legall conviction preceding, or warrant then ſhowen; but
+<pb n="10" facs="tcp:159917:6"/>
+and if they had brought and ſhewen a thouſand ſuch warrants, they had all been illegall, antimagiſteriall &amp; void in this caſe, for they have no legal power in that kind, no more then the King, but ſuch their actions are utterly condemned, and expreſly forbidden by the Law: Why therefore ſhould you of the Repreſentative Body ſit ſtill, and ſuffer theſe Lords thus to devour both us and our Lawes?</p>
+            <p>Be awakned, ariſe and conſider their oppreſſions and encroach<g ref="char:EOLhyphen"/>ments, and ſtop their Lord-ſhips in their ambitious carere, for they do not ceaſe only here, but they ſoar higher &amp; higher, &amp; now they are become arrogators to themſelves, of the natural Soveraignity the Re<g ref="char:EOLhyphen"/>preſented have conveyed and iſſued to their proper Repreſentors, even challenge to themſelves the tittle of the <hi>Supreameſt Court of Ju<g ref="char:EOLhyphen"/>decature in the Land,</hi> as was claimed by the Lord <hi>Hounſden,</hi> when I was before them, which you may ſee more at large in a printed letter publiſhed under my name, intitled, <hi>A Defiance &amp;c.</hi> which challenge of his (I think I may be bold to aſſert) was a moſt illegall, Anti-par<g ref="char:EOLhyphen"/>liamentary, audacious preſumpſion, and might better be pleaded and challenged by the King ſingly, then by all thoſe Lords in a diſtinction from the Commons: but it is more then may be granted to the King himſelfe, for the Parliament &amp; whole Kingdom whom it repreſents, is truly and properly the higheſt Supream power of all others, yea above the King himſelfe:</p>
+            <p>And therefore much more above the Lords, for they can queſtion, Cancell, diſanull and utterly revoake the Kings own Royall Charters, Writs, Commiſſions, Pattents, &amp;c. Though ratified with the Great Seale, even agianſt his perſonal wil, as is evident by their late abroga<g ref="char:EOLhyphen"/>tion of ſundry, Patents, Co<g ref="char:cmbAbbrStroke">̄</g>miſſions, writs, Charters, Lone, Shipmony &amp;c. yea the body Repreſentative have power to enlarge or retract the very prerogative of the King, as the Statute <hi>de praerog. Reg.</hi> and the Parliament Roll of 1. <hi>Hen.</hi> 4. num. 18. doth evidence, and there<g ref="char:EOLhyphen"/>fore their power is larger and higher then the Kings, and if above the Kings, much more above the Lords, who are ſubordinate to the King, and if the Kings Writs, Charters &amp;c. which intrench upon the weale of the People, may be abrogated, nul'd and made voide by the Parliament, the Repreſentateve body of the Land, and his very prerogatives bounded, reſtrained &amp; limited by them, much more may the Orders, Warrants, Commitments &amp;c. of the Lords, with their uſurped prerogatives over the commons and People of <hi>England</hi> be re<g ref="char:EOLhyphen"/>ſtrained,
+<pb n="11" facs="tcp:159917:6"/>
+nul'd and made void by them, and therefore theſe Lord<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> muſt needs be inferiour to them.</p>
+            <p>Further the Legiſlative power is not in the King himſelfe, but only in the Kingdome and body Repreſentative, who hath power to make or to abrogate Lawes, Statutes &amp;c. even without the Kings conſent, for by law he hath not a negative voyce either in making or reverſing, but by his own Coronation Oath, he is ſworne, <hi>to grant fulfill and defend all rightfull Lawes, which the COMMONS of the Realme ſhall chuſe, and to ſtrengthen and maintain them after his power;</hi> by w<hi rend="sup">ch</hi> clauſe of the oath, is evident, that the Co<g ref="char:cmbAbbrStroke">̄</g>mons not the King or Lords) have power to chuſe what Lawes themſelves ſhall judge mee<g ref="char:EOLhyphen"/>teſt, and thereto of neceſſity the King muſt aſſent, and this is evident by moſt of our former Kings and Parliaments, and eſpecially by the ſtaignes <hi>Edw. 1. 2. 3. 4. Rich 2 Hen.</hi> 4. 5. &amp; 6. So that it cannot be denied, but that the King is ſubordinate and inferiour to the whole Kingdome and body Repreſentative: Therefore if the King, much more muſt the Lords vaile their Bonets to the Commons and may not be eſteemed the upper Houſe, <hi>or Supreame Court of Judicature of the Land.</hi>
+            </p>
+            <p>So that ſeeing the Soveraigne power is not originally in the King, or perſonally terminated in him, then the King at moſt can be but chief Officer, or ſupream executioner of the Lawes, under whom all other legall executioners, their ſeverall executions, functions and offices are ſubordinate; for indeed the Repreſenters (in whom that power is inherent, and from whence it takes its originall) can only make conveyance thereof to their Repreſentors<g ref="char:punc">▪</g> vicegerents or De<g ref="char:EOLhyphen"/>puties, and cannot poſſibly further extend it, for ſo they ſhould go be<g ref="char:EOLhyphen"/>yond themſelves, wich is impoſſible, for <hi>ultra poſſe <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>,</hi> there is no being beyond the power of being: That which goes beyond the ſubſtance and ſhaddow of a thing, cannot poſſibly be the thing it ſelfe, either ſubſtantially or vertually, for that which is beyond the Repreſentors, is not repreſentative, and ſo not the Kingdomes or peoples, either ſo much as in ſhaddow or ſubſtance.</p>
+            <p>Therefore the Soveraigne power (extending no further then from the Repreſented to the Repreſentors) all this kind of Soveray<g ref="char:EOLhyphen"/>nity challenged by any (whither of King Lords or others) i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uſurpati<g ref="char:EOLhyphen"/>on, illegitimate and illegall, and none of the Kingdomes or Peoples, neither are the People thereto obliged: Thus (Sir) ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the Sove<g ref="char:EOLhyphen"/>raigne
+<pb n="12" facs="tcp:159917:7"/>
+or legiſlative power is only from the Repreſented, to the Re<g ref="char:EOLhyphen"/>preſentors, and cannot poſſibly legally further extend: the power of the King cannot be <hi>Legiſlative,</hi> but only <hi>executive,</hi> and he can com<g ref="char:EOLhyphen"/>municate no more then he hath himſelfe; and the Soveraigne power not being inherent in him, it cannot be conveyed by, or derived from him to any, for could he, he would have carried it away with him, when he left the Parliament: So that his <hi>meere prerogative creatures,</hi> cannot have that which their <hi>Lord and creator</hi> never had, hath, or can have; namely, the <hi>Legiſlative power:</hi> For it is a ſtanding <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in nature, <hi>omne ſimile generat ſimile,</hi> every like begetteth its like; and indeed they are as like him, <hi>as if they were ſpit out of his mouth.</hi>
+            </p>
+            <p>For their proper ſtation will not content them, but they muſt make incurſions &amp; inroads upon the Peoples rights and freedomes, and ex<g ref="char:EOLhyphen"/>tend their prerogative pattent beyond their Maſters compaſſe; Indeed all other Courts might as well challenge that prerogative of Sove<g ref="char:EOLhyphen"/>raignity, yea better then this Court of Lords. But and if any Court or Courts in this Kingdome, ſhould arrogate to themſelves that dig<g ref="char:EOLhyphen"/>nity, to be the ſupreame Court of Judicatory of the Land, it would be judged no les then high Treaſon, to wit, for an inferiour ſubordi<g ref="char:EOLhyphen"/>nate power to advance and exalt it ſelfe above the power of the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>And (Sir) the oppreſſions, uſurpations, and miſeries, from this prerogative Head, are not the ſole cauſe of our grievance and com<g ref="char:EOLhyphen"/>plaint, but in eſpeciall, the moſt unnaturall, tyranicall, blood-thirſty deſires and continuall endevours of the Clergy, againſt the contrary minded in matters of conſcience, w<hi rend="sup">ch</hi> have been ſo vailed, guilded and covered over, with ſuch various, faire and ſpecious pretences, that by the common diſcernings, ſuch woolſeiſh canniball, inhumaine intents againſt their neighbours, kindred, friends and countrymen, as is now clearely diſcovered, was little ſuſpected (and leſſe deſerved) at their hands; but now I ſuppoſe they will ſcarce hereafter be ſo hard of be<g ref="char:EOLhyphen"/>liefe, for now in plain termes, and with open face the Clergy here diſcover themſelves in their kind, and ſhew plainly that inwardly they are no other but <hi>ravening wolves,</hi> even <hi>as rearing Lyons wanting their pray, going up and down, ſeeking whom they may devour.</hi>
+            </p>
+            <p>For (Sir) it ſeems theſe cruell minded men to their brethren, have by the powerfull agitation of M. <hi>Taet</hi> and M <hi>Bacon,</hi> two members of the Houſe, procured a moſt <hi>Romiſh inquiſition Ordinance,</hi> to obtain an
+<pb n="13" facs="tcp:159917:7"/>
+admiſſion into the Houſe, there to be twice read, and to be referred to a Committee, which is of ſuch a nature, if it ſhould be but confirmed, enacted, and eſtabliſhed, as would draw all the innocent blood of the Saints, from righteous <hi>Abel,</hi> unto this preſent upon this Nation, and fill the land with more Martyrdomes tyranies, cruelties and op<g ref="char:EOLhyphen"/>preſſions, then ever was in the bloody dayes of Queen <hi>Mary,</hi> yea or ever before, or ſince: For I may boldly ſay that the people of this Na<g ref="char:EOLhyphen"/>tion never heard of ſuch a diabollicall, murthering, devouring Ordi<g ref="char:EOLhyphen"/>nance, Order, Edict or Law in their Land as is that;</p>
+            <p>So that it may be truly ſaid unto England, <hi>wo to the inhabitants thereof, for the Divell is come down unto you, (in the ſhape of the letter B.) having great wrath, becauſe he knoweth he hath but a ſhort time,</hi> for never before was the like hear'd of in <hi>England;</hi> the cruel villanous, barbarous Martyrdomes, murthers and butcherys of Gods People, under the pa<g ref="char:EOLhyphen"/>pall and Epiſcopall Clergy, were not perpetated or acted by any Law, ſo diveliſh, cruell and inhumain as this, therefoee what may the free People of <hi>England</hi> expect at the hands of their Presbyterian Clergy, who thus diſcover themſelves more firce and cruell then their fel<g ref="char:EOLhyphen"/>lowes? Nothing but hanging, burning, branding impriſoning, &amp;c. is like to be the reward of the moſt faithfull friends to the Kingdome and Parliament, if the Clergy may be the diſpoſers, notwithſtanding their conſtant magnanimity, fidelity and good ſervice both in the field and at home, for them and the State:</p>
+            <p>But ſure this Ordinance was never intended to pay the Souldiers; their arears if it be, the Independents are like to have the baſt ſhare, let them take that for their comfort: but I believe there was more <hi>Tyth providence,</hi> then <hi>State thrift,</hi> in the matter, for if the Independents, An<g ref="char:EOLhyphen"/>abaptisſts, and Browniſts, were but ſinceerly addicted to the <hi>DVE PAYMENT of TYTHES,</hi> it would be better to them in this caſe then <hi>two ſubſipy men,</hi> to acquit them of <hi>Fellony.</hi>
+            </p>
+            <p>For were it not for the loſſe of their <hi>Trade,</hi> and ſpoyling their <hi>cu<g ref="char:EOLhyphen"/>ſtome,</hi> an Anabaptiſt Browniſt, Independent and Presbyter, were all one to them, then might they without doubt have the <hi>Mercy of the Clergy,</hi> then would they not have been entered into their <hi>Spaniſh In<g ref="char:EOLhyphen"/>quiſition Calender for abſolute Fellons,</hi> or need they have feared the po<g ref="char:EOLhyphen"/>piſh ſoule murthering Antichriſtian <hi>Oath of Ab<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ation,</hi> or <hi>branding in the left checke with the letter B.</hi> the new Presbyterian <hi>Mark of the
+<pb n="14" facs="tcp:159917:8"/>
+Beaſt</hi> for you ſee the <hi>Devill</hi> is now againe entered amongſt us in a new ſhape, not like an Angell of light, (as both he and his ſervants can tranſforme themſelves when they pleaſe) but even in the ſhape of the letter B; from the power of which Presbyterian <hi>Belzebub</hi> good Lord deliver us all and let al the People ſay Amen; Then needed they not to have feared their Priſons, their fire and faggot, their gallowes and halters, &amp;c. The ſtrongeſt <hi>Texts</hi> in all the Presbyterian <hi>new mod<g ref="char:EOLhyphen"/>dle</hi> of <hi>Clergy divinity,</hi> for the maintenance &amp; reverence of their cloth, and confutation of errours; for he that doth but ſo much as queſtion that prieſt fatning-Ordinance for Tythes, Oblations, Obventions, &amp;c. doth flatly deny the <hi>fundamentals of Presbytrie,</hi> for it was the firſt ſtone they laid in their building, and the ſecond ſtone, the pro<g ref="char:EOLhyphen"/>hibition of all to teach Gods word but themſelves, and ſo are <hi>ipſo fa<g ref="char:EOLhyphen"/>cto</hi> all <hi>Fellons. &amp;c.</hi>
+            </p>
+            <p>By this (Sir) you may ſee what bloody minded men thoſe of the black Presbytrie be, what little love, patience, meeknes, longſuffering and forbearance they have to their Brethren; neither doe they as they would be done to; or doe to others as is done to them; for they would not be ſo ſerved themſelves, of the Independents, neither have the Independents ever ſought or deſired any ſuch thing upon them, but would beare with them in all brotherly love; if they would be but contented to live peaceably and neighbourly by them, and not thus to brand, hang, judge and condemne all for <hi>Fellons,</hi> that are not like themſelves. Sure (Sir) you cannot take this murthering, bloody diſpoſition of theirs for the Spirit of Chriſtianity, for Chriſtian <hi>cha<g ref="char:EOLhyphen"/>rety ſuffers long, is kind, envieth not, exalteth not it ſelfe, ſecketh not its own is not eaſily provoked, thinketh no evill, beareth all things beleeveth all things, hopeth all things, endureth all things;</hi> but theſe their deſires and endevours are directly contrary.</p>
+            <p>Therefore (Sir) if you ſhould ſuffer this bloody inroad of Martyr<g ref="char:EOLhyphen"/>dome, cruelties and tyranies, upon the free Commoners of <hi>England,</hi> with whoſe weale you are betruſted, if you ſhould be ſo inhumaine, undutifull, yea and unnaturall unto us, our innocent blood will be up<g ref="char:EOLhyphen"/>on you, and all the blood of the righteous that ſhall be ſhed by this Or<g ref="char:EOLhyphen"/>dinance, and you will be branded to future generations, for Englands <hi>bloody Parliament.</hi>
+            </p>
+            <p>If you will not think upon us, think upon your poſterities, for I cannot ſuppoſe that any one of you would have your children hang'd
+<pb n="15" facs="tcp:159917:8"/>
+in caſe they ſhould prove Independents, Anabaptiſts, Browniſts; I cannot judge you ſo unnaturall and inhumain to your own children, therefore (Sir) if for our own ſakes we ſhall not be protected, ſave us for your childrens ſakes, (though you think your ſelves ſecure,) for ye may be aſſured their and our intereſt is interwowne in one, if wee pe<g ref="char:EOLhyphen"/>riſh, they muſt not think to ſeape. And (Sir) conſider, that the cru<g ref="char:EOLhyphen"/>elties, tyranies and Martyrdomes of the papall and epiſcopall Clergy, was one of the greateſt inſtigations to this moſt unnaturall warre; and think you, if you ſettle a worſe foundation of cruelty, that future ge<g ref="char:EOLhyphen"/>nerations will not taſt of the dreags of that bitter cup?</p>
+            <p>Therefore now ſtep in or never, and diſcharge your duties to God and to us, and tell us no longer, that ſuch motions are not yet <hi>ſeaſona<g ref="char:EOLhyphen"/>ble, and wee muſt ſtill waite;</hi> for have we not waited on your <hi>pleaſures, many faire ſeaſons and precious occaſions and opportunities theſe ſix yeares,</hi> even <hi>till the Halters are ready to be tyed to the Gallowes,</hi> and now muſt wee hold our peace, and waite till wee be all impriſoned, hang'd, burnt and confounded? Blame us not (Sir) if we complain againſt you, ſpeak, write and plead thus with might and maine, for our lives, lawes and liberties, for they are our earthly <hi>ſumnum bonum,</hi> wherewith you are chiefly betruſted; &amp; whereof we deſire a faithful diſcharge at your hands in eſpeciall, therefore be not you the men that ſhall betray the blood of us and our poſterities, into the hands of thoſe bloody black executioners: for God is juſt, and wil avenge our blood at your hands; and let Heaven and earth beat witneſſe againſt you, that for this end, that we might be preſerved and reſtored, wee have diſcharged our duties to you, both of love, fidelity and aſſiſtance, and in whatelſe yee could demand or deviſe in all your ſeverall needs, neceſſities and extremities, not thinking our lives, eſtates, nor any thing too precious to ſacrifice for you and the Kingdomes ſafety, and ſhall wee now be thus unfaithfully, undutifully and ungratfully rewarded? For ſhame, let never ſuch things be ſpoken, far leſſe recorded to future genera<g ref="char:EOLhyphen"/>tions.</p>
+            <p>Thus Sir, I have ſo farre enboldened my ſelfe with you (hoping you will let greivances be uttered, that if God ſee it good they may be re<g ref="char:EOLhyphen"/>dreſſed, and give looſers leave to ſpeake without offence) as I am for<g ref="char:EOLhyphen"/>ced to at this time, not only in the diſcharge of my duty to my ſelfe in particular, but to your ſelves and to our whole Country in generall for the preſent, and for our ſeverall poſterities for the future, and the
+<pb n="16" facs="tcp:159917:9"/>
+Lord give you grace to take this timely advice, from ſo meane and unworthy an inſtrument.</p>
+            <p>One thing more (Sir) I ſhall be bold to crave at your hands, that you would be pleaſed to preſent my Appeale here incloſed, to your Honourable Houſe; perchance the manner of it may beget a diſaffe<g ref="char:EOLhyphen"/>ction in you, or at leaſt a ſuſpition, of diſfavour from the Houſe: but howſoever, I beſeech you, that you would make preſentation thereof, and if any hazard and danger enſue, let it fall upon mee, for I have caſt up mine accounts, I know the moſt that it can coſt me, is but the diſſolution of this fading mortality, which once muſt be diſſolved; but after (bleſſed be God) commeth righteous judgement.</p>
+            <p>Thus (Sir) hoping my earneſt and fervent deſires after the univer<g ref="char:EOLhyphen"/>ſall freedomes and properties of this Nation in generall, and eſpecial<g ref="char:EOLhyphen"/>ly of the moſt godly and faithfull, in their conſciences, perſons and eſtates, will be a ſufficient excuſe with you, for this my tedious pre<g ref="char:EOLhyphen"/>ſumption upon your patience: I ſhal commit the premiſſes to your de<g ref="char:EOLhyphen"/>liberate thoughts, and the iſſue thereof unto God; expecting and praying for his bleſſing upon all your faithfull and honeſt endevours in the proſecution thereof. And reſt;</p>
+            <closer>
+               <signed>In Bonds for the juſt rights and freedoms of the Commons of <hi>England,</hi> theirs and your faith<g ref="char:EOLhyphen"/>full friend and ſervant, Richard Overton.</signed>
+               <dateline>From the moſt contemp<g ref="char:EOLhyphen"/>teous Gaole of New-gate <hi>(the Lords benediction)</hi> 
+                  <date>
+                     <hi>Septem.</hi> 25. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="appeal">
+            <pb n="17" facs="tcp:159917:9"/>
+            <head>To the high and mighty States, the Knights Citizens and Burgeſſes in Parliament Aſſembled; <hi>(Englands legall Soveraigne power)</hi> The humble Appeale and ſupplication of Richard Overton, Priſoner in the moſt contemptible Goale of New gate.</head>
+            <opener>Humbly ſheweth;</opener>
+            <p>
+               <hi>THAT whereas your Petitioner under the pretence of a Criminall fact, being in a warlike manner brought before the Houſe of Lords to be tried, and by them put to anſwer to Interogatories concerning him<g ref="char:EOLhyphen"/>ſelfe, both which your Petitioner humbly conceiveth to be illegall, and contra<g ref="char:EOLhyphen"/>ry to the naturall rights, freedoms and properties of the free Commoners of</hi> England <hi>(confirmed to them by</hi> Magna Charta, <hi>the Petition or Right, and the Act for the aboliſhment of the Star-chamber) he therefore was en<g ref="char:EOLhyphen"/>boldened to refuſe ſubjection to the ſaid Houſe, both in the one and the other; expreſſing his reſolution before them,</hi> that he would not infringe the pri<g ref="char:EOLhyphen"/>vate Rights and properties of himſelfe, or of any one Commoner in particular, or the common Rights and properties of this Nation in ge<g ref="char:EOLhyphen"/>nerall: <hi>For which your Petitioner was by them adjudged contemptuous, &amp; by an Order from the ſaid Houſe was therefore committed to the Goale of</hi> New<g ref="char:EOLhyphen"/>gate, <hi>where, from the 11. of</hi> Auguſt 1646. <hi>to this preſent he hath lyen, and there commanded to be kept till their</hi> Pleaſures ſhall be further ſignified <hi>(as a</hi> copy <hi>of the ſaid Order hereunto annexed doth declare) which may be perpetuall if they pleaſe, and may have their wils; for your Petitioner humbly conceiveth that thereby he is made a Priſoner to their Wils, not to the Law, except their Wils may be a Law.</hi>
+            </p>
+            <p>
+               <hi>Wherefore, your leige Petitioner doth make his humble appeale unto this moſt Soveraigne Houſe (as to the higheſt Court of Judicatory in the Land, wherein all the appeales thereof are to centure, &amp; beyond which none can legal<g ref="char:EOLhyphen"/>ly be made) humbly craving (both in teſtimony of his acknowledgment of its le<g ref="char:EOLhyphen"/>gall regality, &amp; of his due ſubmiſſion thereunto) that your Honours therein aſ<g ref="char:EOLhyphen"/>ſembled, would take his cauſe (and in his, the cauſe of all the free Commoners of</hi> England, <hi>whom you repreſent, &amp; for whom you ſit) into your ſerious conſi<g ref="char:EOLhyphen"/>deration and legall determination, that he may either by the mercy of the
+<pb n="18" facs="tcp:159917:10"/>
+Law be repoſſeſſed of his juſt liberty and freedome, and thereby the whole Commons of</hi> England <hi>of theirs, thus unjuſtly (as he humbly conceiveth) u<g ref="char:EOLhyphen"/>ſurped &amp; invaded by the Houſe of LORDS, with due repairations of all ſuch damages ſo ſuſtained, or elſe that he may undergoe what penalty ſhall in e<g ref="char:EOLhyphen"/>quity by the impartiall ſeverity of the Law be adjudged againſt him by this Honourable Houſe, in caſe by them he ſhall be legally found a tranſgreſſour herein.</hi>
+            </p>
+            <closer>
+               <signed>And Your Petitioner (as in du<g ref="char:EOLhyphen"/>ty bound) ſhall ever pray, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <opener>
+               <dateline>
+                  <date>Die Martis 11. Auguſti. 1646.</date>
+               </dateline>
+            </opener>
+            <p>It is this day Ordered by the Lords in Parliament aſ<g ref="char:EOLhyphen"/>ſembled, that <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Overton</hi> brought before a Com<g ref="char:EOLhyphen"/>mittee of this Houſe, for printing ſcandalous things a<g ref="char:EOLhyphen"/>gainſt this Houſe, is hereby committed to the Priſon of New-gate, for his high contempt offered to this Houſe, and to the ſaid Committee by his contempte<g ref="char:EOLhyphen"/>ous words and geſture, and refuſing to anſwer unto the Speaker: And that the ſaid <hi>Overton</hi> ſhall be kept in ſafe cuſtody by the Keeper of New-gate or his de<g ref="char:EOLhyphen"/>puty, <hi>untill the Pleaſure of the Houſe be further ſignified.</hi>
+            </p>
+            <closer>
+               <signed>John Brown Cleric. Parl. Examinat. per Ra. Briſco Cl<g ref="char:EOLhyphen"/>ricu. de New-gate.</signed>
+            </closer>
+            <trailer>To the Gentleman Uſher attending this Houſe, or his Deputy, to be delivered to the Keeper of New-gate on his Deputy.</trailer>
+         </div>
+         <div type="postscript">
+            <pb n="19" facs="tcp:159917:10"/>
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOur unſeaſonable abſence from the Houſe, chiefly while Miſtres <hi>Lilburns</hi> Petition ſhould have been read (you having a RE<g ref="char:EOLhyphen"/>PORT to make in her huſbands behalfe, whereby the hearing thereof was defer'd and retarded) did poſſeſſe my mind with ſtrong jealouſies and feares of you, that you either preferred your own plea<g ref="char:EOLhyphen"/>ſure or private intereſt before the execution of juſtice and judgement, or elſe withdrew your ſelfe, on ſet purpoſe (through the ſtrong inſti<g ref="char:EOLhyphen"/>gation of the Lords) to evade the diſcharge of your truſt to God and to your Cou<g ref="char:cmbAbbrStroke">̄</g>t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y; but at your returne underſtanding, that you honeſtly &amp; <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>thfully d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d redeem your abſent time, I was diſpoſſeſſed of thoſe feares and jealouſies: So that for my over-haſty cenſorious eſteem of you, I humbly crave your excuſe, hoping you will rather impute it to the fervency of my faithfull zeale to the common good, then to any malignant diſpoſition or diſaffection in me towards you: Yet (Sir) in this my ſuſpition I was not ſingle, for it was even become a generall ſurmiſe.</p>
+            <p>Wherefore (Sir) for the awarding your innocency for the future, from the tincture of ſuch unjuſt and calumnious ſuſpitions, be you diligent and faithfull, inſtant in ſeaſon and out of ſeaſon, omit no opportunity, (though with never ſo much hazard to your perſon, eſtate or family) to diſcharge the great truſt (in you repoſed with the reſt of your fellow members) for the redemption of your <hi>na<g ref="char:EOLhyphen"/>tive Country</hi> from the <hi>Arbitrary Domination and uſurpations, either of the Houſe of LORDS, or any other.</hi>
+            </p>
+            <p>And ſince by the <hi>divine providence of God,</hi> it hath pleaſed that Ho<g ref="char:EOLhyphen"/>nourable Aſſembly whereof you are a Member, to ſelect and ſever you out from amongſt themſelves, to be of <hi>that Committee</hi> which they haue <hi>Ordained to receive the Commoners complaints againſt the Houſe of LORDS,</hi> granted upon the foreſaid moſt <hi>honourable Petition:</hi> Be you therefore impartiall, and juſt, active and reſolute care neither for favours nor ſmiles, and be no reſpector of perſons, let not the <hi>grea<g ref="char:EOLhyphen"/>teſt Peers</hi> in the Land, be more reſpected with you, then ſomany <hi>old Bellowes-menders, Broom men, Coblers, Tinkers or Chimney-ſweepers,</hi>
+               <pb n="20" facs="tcp:159917:11"/>
+who are all equally <hi>Free borne,</hi> with the <hi>hudgeſt men,</hi> and <hi>loſtiest A<g ref="char:EOLhyphen"/>nachims</hi> in the Land.</p>
+            <p>Doe nothing for favour of the one, or feare of the other; and have a care of the <hi>temporary Sagacity</hi> of the <hi>new Sect of OPPORTUNITY POLITITIANS,</hi> whereof we have got at leaſt two or three too ma<g ref="char:EOLhyphen"/>ny; for delayes &amp; demurres of Juſtice are of more deceitfull &amp; dange<g ref="char:EOLhyphen"/>rous conſequence, then the flat &amp; open deniall of its execution, for the one keeps in ſuſpence, makes negligent &amp; remiſſe, the other provokes to ſpeedy defence, makes active and reſolute: Therefore be wiſe, quick, ſtout and impartiall: neither ſpare, favour, or connive at friend or foe, high or low, rich or poore, Lord or Commoner.</p>
+            <p>And let even the ſaying of the Lord, with which I will cloſe this preſent diſcourſe, cloſe with your heart, and be with you to the death. <hi>Leviticus,</hi> 19. 15.</p>
+            <p>
+               <hi>Yee ſhall doe no unrighteouſneſſe in judgement; thou ſhalt not reſpect the perſon of the poore, nor honour the perſon of the mighty, but in righteouſneſſe ſhalt thou judge thy neighbour.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>October 12. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
